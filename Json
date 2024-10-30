@@ -3,8 +3,8 @@
         "descripcion": "Capsula personal de un minuto describiendo el opuesto de mi ser",
         "fecha": "2022",
         "signo": "Audiovisual",
-        "foto": "https://github.com/user-attachments/assets/8112658c-119a-4948-ae3a-5d4b1056ce81",
-        "fotos":["anti-tati-1.jpg","anti-tati-2.jpg","anti-tati-3.jpg"],
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/anti-tati-1.jpg",
+        "fotos":["anti-tati-1.jpg","anti-tati-2.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
 
@@ -13,7 +13,7 @@
         "descripcion": "Un juego basado en el ecosistema de la Isla Choros",
         "fecha": "2021",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/9b4f1061-18b7-4b6d-835a-722966c1ea30",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/caos-1.png",
         "fotos":["caos-1.jpg","caos-2.jpg","caos-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
@@ -22,7 +22,7 @@
         "descripcion": "Propuesta de sticker lamible para perros basado en frutas",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/09e8faca-e4dd-43d2-a64d-9f37a2184452",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/circular-pet-lengutas-1.jpg",
         "fotos":["circular-pet-lenguitas-1.jpg","circular-pet-lenguitas-2.jpg","circular-pet-lenguitas-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
@@ -31,7 +31,7 @@
         "descripcion": "Propuesta de plasticina moldeable y comestible para mascotas basado en frutas",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/9398475e-dec4-4a09-8b43-a3cb77ca04a2",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/circular-pet-mascaditas-1.jpg",
         "fotos":["circular-pet-mascaditas-1.jpg","circular-pet-mascaditas-2.jpg","circular-pet-mascaditas-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
@@ -40,7 +40,7 @@
         "descripcion": "Una pagina web que facilita la conexion entre empresas y estudiantes que buscan trabajo",
         "fecha": "2023",
         "signo": "Servicio",
-        "foto": "https://github.com/user-attachments/assets/8617ec1a-89c9-429a-8d0d-9596cd4bd7bd",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/estutrabajo-1.png",
         "fotos":["estutrabajo-1.jpg","estutrabajo-2.jpg","estutrabajo-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
@@ -49,17 +49,8 @@
         "descripcion": "Practica realizada en Edulab, donde se debia diagramar e ilustrar guias educativas para estudiantes y profesores de colegios estatales en Melipilla",
         "fecha": "2022",
         "signo": "Grafico",
-        "foto": "https://github.com/user-attachments/assets/1ef25665-7a0b-4127-b615-44c227ce567e",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/guias-educativas-1.jpg",
         "fotos":["guias-educativas-1.jpg","guias-educativas-2.jpg","guias-educativas-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
-    },
-    {
-        "nombre": "Kremosa Protein Mix",
-        "descripcion": "Propuesta de mezcla de mantequillas de la marca Kremosa, divididas por densidades, que fomentan la interaccion de cucharear",
-        "fecha": "2022",
-        "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/ba3ca86c-5449-46fb-a060-5c75b815ac7a",
-        "fotos":["kremosa-protein-mix-1.jpg","kremosa-protein-mix-2.jpg","kremosa-protein-mix-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
      {
@@ -67,17 +58,27 @@
         "descripcion": "Propuesta de una colacion de pelotitas de mantequillas de mani y almendra, fomentando la colacion de mantequillas afuera de la casa",
         "fecha": "2022",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/69422d24-1db5-414c-92fb-6a425eb91f50",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/kremosa-pops-1.jpg",
         "fotos":["kremosa-pops-1.jpg","kremosa-pops-2.jpg","kremosa-pops-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
+    {
+        "nombre": "Kremosa Protein Mix",
+        "descripcion": "Propuesta de mezcla de mantequillas de la marca Kremosa, divididas por densidades, que fomentan la interaccion de cucharear",
+        "fecha": "2022",
+        "signo": "Producto",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/kremosa-protein-mix-1.jpg",
+        "fotos":["kremosa-protein-mix-1.jpg","kremosa-protein-mix-2.jpg","kremosa-protein-mix-3.jpg"],
+        "github": "https://t0rdn.github.io/clase12/"
+    },
+
     {
         "nombre": "Maraiba",
         "descripcion": "Un refugio para la jaiba marmola creado en base de biomaterial de conchas",
         "fecha": "2023",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/1efcb0db-762c-4427-a5ff-5be6249c9499",
-        "fotos":["maraiba-1.jpg","maraiba-2.jpg","maraiba-3.jpg"],
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/maraiba-1.jpg",
+        "fotos":["maraiba-1.jpg","maraiba-2.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     }, 
      { 
@@ -85,7 +86,7 @@
         "descripcion": "Coleccion de prendas basado en el upcycing de prendas khaki",
         "fecha": "2023",
         "signo": "Textil",
-        "foto": "https://github.com/user-attachments/assets/77bc9197-da78-4a23-a71d-8ddfb847dc02",
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/mismatch-1.jpg",
         "fotos":["mismatch-1.jpg","mismatch-2.jpg","mismatch-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
@@ -94,8 +95,8 @@
         "descripcion": "Modelado de la figura de lego de Malefica con sus accesorios, hecho en Rhino",
         "fecha": "2024",
         "signo": "Industrial",
-        "foto": "https://github.com/user-attachments/assets/2c2c431a-f631-410f-a85a-77ebb4147e56",
-        "fotos":["modelado-lego.jpg","modelado-lego-2.jpg","modelado-lego-3.jpg"],
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/modelado-lego-1.jpg",
+        "fotos":["modelado-lego-1.jpg","modelado-lego-2.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     },
 
@@ -104,8 +105,8 @@
         "descripcion": "Una instalacion urbana que fomenta la distencion en adultos mayores",
         "fecha": "2021",
         "signo": "Producto",
-        "foto": "https://github.com/user-attachments/assets/381e6a39-2523-4922-998a-a19345212f18",
-        "fotos":["urban-terra.jpg","urban-terra-2.jpg","urban-terra-3.jpg"],
+        "foto": "https://github.com/t0rdn/clase12/blob/bdf8d1ef13d5d064f28c79feb9cb419bf08ee2a5/fotos/urban-terra-1.jpg",
+        "fotos":["urban-terra-1.jpg","urban-terra-2.jpg","urban-terra-3.jpg"],
         "github": "https://t0rdn.github.io/clase12/"
     }]
    
