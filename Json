@@ -5,7 +5,7 @@
         "signo": "Audiovisual",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/anti-tati-1.jpg?raw=true",
         "fotos":["anti-tati-1.jpg","anti-tati-2.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
 
     { 
@@ -15,7 +15,7 @@
         "signo": "Producto",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/caos-1.png?raw=true",
         "fotos":["caos-1.jpg","caos-2.jpg","caos-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
     {
         "nombre": "Circular Pet Lenguitas",
@@ -24,7 +24,7 @@
         "signo": "Producto",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/circular-pet-lengutas-1.jpg?raw=true",
         "fotos":["circular-pet-lenguitas-1.jpg","circular-pet-lenguitas-2.jpg","circular-pet-lenguitas-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
      {
         "nombre": "Circular Pet Mascaditas",
@@ -33,7 +33,7 @@
         "signo": "Producto",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/circular-pet-mascaditas-1.jpg?raw=true",
         "fotos":["circular-pet-mascaditas-1.jpg","circular-pet-mascaditas-2.jpg","circular-pet-mascaditas-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
     {
         "nombre": "EstuTrabajo",
@@ -42,7 +42,7 @@
         "signo": "Servicio",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/estutrabajo-1.png?raw=true",
         "fotos":["estutrabajo-1.jpg","estutrabajo-2.jpg","estutrabajo-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
      {
         "nombre": "Guias educativas",
@@ -51,7 +51,7 @@
         "signo": "Grafico",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/guias-educativas-1.jpg?raw=true",
         "fotos":["guias-educativas-1.jpg","guias-educativas-2.jpg","guias-educativas-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
      {
         "nombre": "Kremosa POPS",
@@ -60,7 +60,7 @@
         "signo": "Producto",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/kremosa-pops-1.jpg?raw=true",
         "fotos":["kremosa-pops-1.jpg","kremosa-pops-2.jpg","kremosa-pops-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
     {
         "nombre": "Kremosa Protein Mix",
@@ -69,7 +69,7 @@
         "signo": "Producto",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/kremosa-protein-mix-1.jpg?raw=true",
         "fotos":["kremosa-protein-mix-1.jpg","kremosa-protein-mix-2.jpg","kremosa-protein-mix-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
 
     {
@@ -79,7 +79,7 @@
         "signo": "Producto",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/maraiba-1.jpg?raw=true",
         "fotos":["maraiba-1.jpg","maraiba-2.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     }, 
      { 
         "nombre": "mismatch",
@@ -88,7 +88,7 @@
         "signo": "Textil",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/mismatch-1.jpg?raw=true",
         "fotos":["mismatch-1.jpg","mismatch-2.jpg","mismatch-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
     {
         "nombre": "Modelado Lego",
@@ -97,7 +97,7 @@
         "signo": "Industrial",
         "foto": "https://github.com/t0rdn/clase12/blob/main/fotos/modelado-lego-1.jpg?raw=true",
         "fotos":["modelado-lego-1.jpg","modelado-lego-2.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     },
 
     {
@@ -107,6 +107,6 @@
         "signo": "Producto",
         "foto": "hhttps://github.com/t0rdn/clase12/blob/main/fotos/urban-terra-1.jpg?raw=true",
         "fotos":["urban-terra-1.jpg","urban-terra-2.jpg","urban-terra-3.jpg"],
-        "github": "https://t0rdn.github.io/clase12/"
+        "github": "https://github.com/t0rdn"
     }]
    
